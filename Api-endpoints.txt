@@ -1,0 +1,38 @@
+Get All Students List:
+http://localhost:9000/all-students
+
+
+Get All Mentors List:
+http://localhost:9000/all-mentors
+
+
+Add student:
+http://localhost:9000/Add-Student
+
+
+Add mentor:
+http://localhost:9000/Add-mentor
+
+
+Assign student to mentor:
+http://localhost:9000/assign-student-to-mentor
+
+
+Change Mentor for a Student:
+http://localhost:9000/change-mentor/649bb777c7a4057272bf03b0
+
+
+Get All Students for a particular Mentor:
+http://localhost:9000/students-for-mentor?mentorName=Rahul
+
+
+Get Previously Assigned Mentor for a particular Student:
+http://localhost:9000/previous-mentor/649bc95c98cee32c7c91835e
+
+
+----------------------------------------------------
+Render:
+
+
+
+
